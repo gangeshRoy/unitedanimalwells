@@ -1,0 +1,446 @@
+//=> Sample response Acceptance Scan (RANACPTWLNS) 
+
+
+{
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANACPT"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+          
+       }
+    },
+    "remarks": "future_use"
+ }
+
+//Sample response - feed scan
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANFED"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+        
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+
+
+//Sample response - relieve scan
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANREL"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+
+
+//Sample response - bathing scan
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANBTH"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+
+//Sample response - pet deceased scan
+
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANDCS"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+}
+ //Wellness Check for Feed Scan response (RANFEDWLNS)
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANFEDWLNS",
+       "scan_location": "Staging"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+ //Wellness Check for Relieve Scan response (RANRELWLNS)
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANRELWLNS"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+ //Wellness Check for Kennel Bathing response (RANBTHWLNS)
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANBTHWLNS",
+       "scan_location": "Staging"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+ //Wellness Check for Pet Deceased Scan response (RANDCSWLNS)
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANDCSWLNS"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+ //Sample response for Wellness Check for Pickup Scan (RXPUWLNS)
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RXPUWLNS"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+ //Sample response for Wellness Check for Drop-Off Scan (RANXDOWLNS)
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANXDOWLNS"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }
+ //Sample Wellness Response - Arrival Pickup Scan (RANTBPWLNS)
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANTBPWLNS"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": []
+ }
+
+ //Sample Wellness Response - Arrival Pickup Scan (RANCDLVWLNS )
+ {
+    "hdr": {
+       "scanner_info": {
+          "mac_id": "00-19-D2-3C-B3-46"
+       },
+       "action_cd": "RANCDLVWLNS"
+    },
+    "ret_code": "00",
+    "error_msg": "Good Return",
+    "resp_info": {
+       "flt_info": {
+          "flt_nbr": "1601",
+          "carr_cd": "UA",
+          "orig": "MCO",
+          "dest": "IAH",
+          "gate": "B30",
+          "equip_cd": "XRJ",
+          "flt_status": "OFF",
+          "intl_ind": "D",
+          "lcl_est_arr_dtm": "2018-09-17T13:00:00",
+          "lcl_est_dep_dtm": "2018-09-17T12:00:00",
+          "lcl_sch_arr_dtm": "2018-09-17T13:25:00",
+          "lcl_sch_dep_dtm": "2018-09-17T12:00:00",
+          "flt_type": "UAX",
+          "arrBagClaimUnitId": "B3",
+          "eqpDesc": "Embraer EMB-145XR",
+          "acft_nbr": "N14180",
+          "TailNumber": "N14180",
+          "orig_flt_dt": "2018-09-17",
+          "arivalBagScreenAlert": "false"
+       }
+    },
+    "remarks": "future_use"
+ }

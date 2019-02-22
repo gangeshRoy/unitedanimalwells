@@ -1,0 +1,28 @@
+Services we will use in this part
+We will be building a basic ToDo Web application using Angular 6 with these Amplify features.
+
+S3 Hosting, CloudFront
+Analytics
+APIs using API Gateway and Lambda
+
+
+
+CloudFormation — to create the resources on backend
+S3 and CloudFront — for Hosting the Angular App
+API Gateway and Lambda — for API
+Pinpoint — for Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

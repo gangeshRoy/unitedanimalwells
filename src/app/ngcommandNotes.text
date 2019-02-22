@@ -1,0 +1,7 @@
+
+/*****************************************Agular notes*********************************/
+command for creating a folder 
+ng g component app/authentication
+command for creating a file in a folder 
+ng g c folderName/fileName --spec=false --flat=true
+

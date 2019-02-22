@@ -1,0 +1,96 @@
+.items {
+	display: flex;
+    flex-wrap: wrap;
+   background:  #0c0c52;
+}
+.items .item {
+	
+  box-sizing: border-box;
+
+  color: #ffffff;
+  padding: 10px;
+}
+.control-label{
+    padding-right: 15px;
+}
+.input-medium{
+    padding-right:50px;
+}
+.listCarMain{
+    width: 100%;
+    height: auto;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #000;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background: yellow;
+    padding:10px 0px;
+}
+.width50{
+    width: 50%;
+   
+}
+.width25{
+    width: 25%;
+   
+}
+.width50{
+    width: 75%;
+   
+}
+.width10{
+    width: 10%;
+   background: green
+}
+.width90{
+    width: 90%;
+    background: red;
+   
+}
+.width45{
+    width: 45%;
+    background: red;
+   
+}
+.width40{
+    width: 40%;
+    background: red;
+   
+}
+.width15{
+    width: 15%;
+    background: red;
+   
+}
+.width95{
+    width: 95%;
+    background: red;
+   
+}
+.width5{
+    width: 5%;
+    background: red;
+   
+}
+.card{
+    width: 100%;
+    height: auto;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #000;
+    -ms-flex-pack: center;
+    justify-content: center;
+  
+}
+.inlineFlexDiv{
+    height: auto;
+    text-align: left;
+    display: -ms-flexbox;
+    display: inline-flex;
+    color: #fff;
+    font-family: regular;
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 15px;
+}

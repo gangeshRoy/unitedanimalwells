@@ -1,0 +1,182 @@
+.dashboardContainer {
+    height: 100vh;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    background-color: #f2f2f2;
+    padding: 5px;
+  }
+  .header {
+    width: 100%;
+    height: 80px;
+    padding: 0 30px;
+    background: red;
+    position: fixed;
+    top: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .subHeader {
+    width: 100%;
+    height: auto;
+    height: 200px;
+    background-color: midnightblue;
+  }
+  .dashBoardInformation {
+    height: 100%;
+    width: 100%;
+    /* display: flex;
+          vertical-align: top; */
+  }
+  .dashboardInfomationRow {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+  }
+  .dashboardInfomationChildRow{
+    width: 100%;
+    height: 50%;
+    display: flex;
+  }
+  .dashboardInfomationColuman {
+    width: 50%;
+    height: 100%;
+    vertical-align: top;
+    padding:10px 5px;
+  }
+  .chart-skills {
+    position: relative;
+    width: 121px;
+    height: 57px;
+    border: 20px solid rgba(211, 211, 211, 0.3);
+    border-bottom: none;
+    border-top-left-radius: 175px;
+    border-top-right-radius: 175px;
+    margin-top: 66px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    padding-top: 100px;
+  }
+
+  ul::before,
+  ul::after {
+    position: absolute;
+  }
+  li::before,::after{
+    position: absolute;
+    width: 121px;
+    height: 57px;
+    /* border: 20px solid green; */
+    border-bottom: none;
+    border-top-left-radius: 175px;
+    border-top-right-radius: 175px;
+    margin-top: 73px;
+    right: 20px;
+    left: 34px;
+  }
+
+  
+  .chart-skills::after {
+    content: "";
+  top:0px;
+  }
+  .chart-skills::before{
+    left: 49%;
+    bottom:0px;
+    transform: translateX(-50%);
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: cadetblue;
+  }
+  span {
+    margin-top: 100px;
+  }
+  .map-image {
+    /* background-image: url("../../assets/images/unitedmap1.jpg"); */
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: relative; */
+  }
+  .runmap-image {
+    /* background-image: url("../../assets/images/linechartmocup.png"); */
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 85% auto;
+    /* position: relative; */
+  }
+  .dropdown-image {
+    /* background-image: url("../../assets/images/multiselectmocaup.png"); */
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 85% auto;
+    /* position: relative; */
+  }
+  .paiHolder{
+      position: relative;
+  }
+
+  .item {
+    position: relative;
+    float: left;
+}
+
+.item h2 {
+    text-align:center;
+    position: absolute;
+    line-height: 125px;
+    width: 100%;
+}
+
+svg {
+   -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.circle_animation {
+  stroke-dasharray: 390; /* this value is the pixel circumference of the circle */
+  stroke-dashoffset: 390;
+}
+
+.html .circle_animation {
+    -webkit-animation: html 1s ease-out forwards;
+    animation: html 1s ease-out forwards;
+}
+
+
+
+@-webkit-keyframes html {
+  to {
+    stroke-dashoffset: 220; /* 50% would be 220 (half the initial value specified above) */
+  }
+}
+
+@keyframes html {
+  to {
+    stroke-dashoffset: 168;
+  }
+}
+
+@-webkit-keyframes css {
+  to {
+    stroke-dashoffset: 80;
+  }
+}
+
+@keyframes css {
+  to {
+    stroke-dashoffset: 80;
+  }
+}

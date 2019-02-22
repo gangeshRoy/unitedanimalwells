@@ -1,0 +1,95 @@
+<p>
+  create-employee works!
+</p>
+
+<form class="form-horizontal" [formGroup]="employeeForm" (ngSubmit)="onSubmit()">
+    <div class="panel panel-primary">
+        <div class="panil-heading">
+          <h3 class="painal-title">
+    create user
+          </h3>
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+              <label class="col-sm-2 control-label" for="fullName">full Name</label>
+                <div class="col-sm-5">
+                  <input id="fullName" formControlName="fullName" type="text" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-2 control-label" for="email">Email</label>
+                  <div class="col-sm-5">
+                    <input id="email" formControlName="email" type="text" class="form-control">
+                  </div>
+              </div>
+              <div formGroupName="skills">
+                  <div class="form-group">
+
+                    <label class="col-sm-2 control-label"> Skill</label>
+                    <div class="col-sm-4">
+                        <input type="text" class="form-control" placeholder="Name" id="skillName" formControlName="skillName">
+
+                    </div>
+                    <div class="col-sm-4">
+                        <input type="text" class="form-control" placeholder="Exprience in year"   id="exprienceInYear" formControlName="exprienceInYears">
+
+                    </div>
+                    <input type="radio" value="beginer" formControlName="proficiency">Beginner
+                    <input type="radio" value="intermediate" formControlName="proficiency">Intermediate
+                    <input type="radio" value="advanced" formControlName="proficiency">Advanced
+                  </div>
+                </div>
+              <div class="panel-footer">
+                      <div class="btn-toolbar">    
+                    <button  class="btn btn-primary" id="loginSaveButton" >
+                        Create
+                    </button>
+                    <button  class="btn btn-primary" id="loginSaveButton" (click)="onLoadDataClick()">
+                      load data
+                  </button>
+                 </div>
+                </div>
+    
+    
+        </div>
+        
+    </div >
+    
+   
+    </form>
+
+    
+    <table >
+        <thead>
+          <tr>
+            <th style="padding:10px">FormGroup</th>
+            <th style="padding:10px">FormControl (fullName)</th>
+            
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding:10px">
+                    touched: {{employeeForm.touched}}
+              <br/>dirty: {{employeeForm.dirty}}
+              <br/>Form Value: {{employeeForm.value | json}}
+              <br/>
+            </td>
+          
+          </tr>
+          <tr>
+            
+            <td style="padding:10px">
+                touched:{{employeeForm.get("fullName").touched}}
+                <br/>dirty:{{employeeForm.get("fullName").dirty}}
+                <br/>Form name Value:{{employeeForm.get("fullName").value}}
+                <br/>
+            </td>
+            
+          </tr>
+  
+        </tbody>
+        
+      </table>
+    
+     

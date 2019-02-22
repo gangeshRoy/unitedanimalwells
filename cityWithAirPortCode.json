@@ -1,0 +1,1908 @@
+[{
+    "City": "Aberdeen, GB (ABZ)",
+    "AirportCode": "ABZ"
+  }, {
+    "City": "Abidjan, CI (ABJ)",
+    "AirportCode": "ABJ"
+  }, {
+    "City": "Abuja, NG (ABV)",
+    "AirportCode": "ABV"
+  }, {
+    "City": "Acapulco, MX (ACA)",
+    "AirportCode": "ACA"
+  }, {
+    "City": "Accra, GH (ACC)",
+    "AirportCode": "ACC"
+  }, {
+    "City": "Addis Ababa, ET (ADD)",
+    "AirportCode": "ADD"
+  }, {
+    "City": "Adelaide, SA, AU (ADL)",
+    "AirportCode": "ADL"
+  }, {
+    "City": "Aguadilla, PR, US (BQN)",
+    "AirportCode": "BQN"
+  }, {
+    "City": "Aguascalientes, MX (AGU)",
+    "AirportCode": "AGU"
+  }, {
+    "City": "Akron/Canton, OH, US (CAK)",
+    "AirportCode": "CAK"
+  }, {
+    "City": "Albany, NY, US (ALB)",
+    "AirportCode": "ALB"
+  }, {
+    "City": "Albuquerque, NM, US (ABQ)",
+    "AirportCode": "ABQ"
+  }, {
+    "City": "Alexandria, LA, US (AEX)",
+    "AirportCode": "AEX"
+  }, {
+    "City": "Allentown, PA, US (ABE)",
+    "AirportCode": "ABE"
+  }, {
+    "City": "Almaty, KZ (ALA)",
+    "AirportCode": "ALA"
+  }, {
+    "City": "Amarillo, TX, US (AMA)",
+    "AirportCode": "AMA"
+  }, {
+    "City": "Amman, JO (AMM)",
+    "AirportCode": "AMM"
+  }, {
+    "City": "Amsterdam, NL (AMS)",
+    "AirportCode": "AMS"
+  }, {
+    "City": "Anchorage, AK, US (ANC)",
+    "AirportCode": "ANC"
+  }, {
+    "City": "Ancona, IT (AOI)",
+    "AirportCode": "AOI"
+  }, {
+    "City": "Ankara, TR (ESB)",
+    "AirportCode": "ESB"
+  }, {
+    "City": "Antigua, AG (ANU)",
+    "AirportCode": "ANU"
+  }, {
+    "City": "Apia, WS (APW)",
+    "AirportCode": "APW"
+  }, {
+    "City": "Appleton, WI, US (ATW)",
+    "AirportCode": "ATW"
+  }, {
+    "City": "Arequipa, PE (AQP)",
+    "AirportCode": "AQP"
+  }, {
+    "City": "Armenia, CO (AXM)",
+    "AirportCode": "AXM"
+  }, {
+    "City": "Aruba, AW, NL (AUA)",
+    "AirportCode": "AUA"
+  }, {
+    "City": "Asheville, NC, US (AVL)",
+    "AirportCode": "AVL"
+  }, {
+    "City": "Ashgabat, TM (ASB)",
+    "AirportCode": "ASB"
+  }, {
+    "City": "Aspen, CO, US (ASE)",
+    "AirportCode": "ASE"
+  }, {
+    "City": "Astana, KZ (TSE)",
+    "AirportCode": "TSE"
+  }, {
+    "City": "Asunción, PY (ASU)",
+    "AirportCode": "ASU"
+  }, {
+    "City": "Athens, GR (ATH)",
+    "AirportCode": "ATH"
+  }, {
+    "City": "Atlanta, GA, US (ATL)",
+    "AirportCode": "ATL"
+  }, {
+    "City": "Auckland, NZ (AKL)",
+    "AirportCode": "AKL"
+  }, {
+    "City": "Augusta, GA, US (AGS)",
+    "AirportCode": "AGS"
+  }, {
+    "City": "Austin, TX, US (AUS)",
+    "AirportCode": "AUS"
+  }, {
+    "City": "Bahrain, BH (BAH)",
+    "AirportCode": "BAH"
+  }, {
+    "City": "Bakersfield, CA, US (BFL)",
+    "AirportCode": "BFL"
+  }, {
+    "City": "Baku, AZ (GYD)",
+    "AirportCode": "GYD"
+  }, {
+    "City": "Baltimore, MD, US (BWI)",
+    "AirportCode": "BWI"
+  }, {
+    "City": "Bangkok, TH (BKK)",
+    "AirportCode": "BKK"
+  }, {
+    "City": "Bangor, ME, US (BGR)",
+    "AirportCode": "BGR"
+  }, {
+    "City": "Banjul, GM (BJL)",
+    "AirportCode": "BJL"
+  }, {
+    "City": "Baotou (BAV)",
+    "AirportCode": "BAV"
+  }, {
+    "City": "Barcelona, ES (BCN)",
+    "AirportCode": "BCN"
+  }, {
+    "City": "Bari, IT (BRI)",
+    "AirportCode": "BRI"
+  }, {
+    "City": "Barranquilla, CO (BAQ)",
+    "AirportCode": "BAQ"
+  }, {
+    "City": "Basel, CH (BSL)",
+    "AirportCode": "BSL"
+  }, {
+    "City": "Baton Rouge, LA, US (BTR)",
+    "AirportCode": "BTR"
+  }, {
+    "City": "Beijing (PEK - Capital)",
+    "AirportCode": "PEK"
+  }, {
+    "City": "Belfast, GB (BHD - City)",
+    "AirportCode": "BHD"
+  }, {
+    "City": "Belgrade, RS (BEG)",
+    "AirportCode": "BEG"
+  }, {
+    "City": "Belize City, BZ (BZE)",
+    "AirportCode": "BZE"
+  }, {
+    "City": "Belo Horizonte, MG, BR (CNF - Tancredo Neves)",
+    "AirportCode": "CNF"
+  }, {
+    "City": "Bengaluru, IN (BLR)",
+    "AirportCode": "BLR"
+  }, {
+    "City": "Bentonville, AR, US (XNA)",
+    "AirportCode": "XNA"
+  }, {
+    "City": "Berlin, DE (TXL - Tegel)",
+    "AirportCode": "TXL"
+  }, {
+    "City": "Bermuda, BM (BDA)",
+    "AirportCode": "BDA"
+  }, {
+    "City": "Bilbao, ES (BIO)",
+    "AirportCode": "BIO"
+  }, {
+    "City": "Billings, MT, US (BIL)",
+    "AirportCode": "BIL"
+  }, {
+    "City": "Billund, DK (BLL)",
+    "AirportCode": "BLL"
+  }, {
+    "City": "Birmingham, AL, US (BHM)",
+    "AirportCode": "BHM"
+  }, {
+    "City": "Birmingham, GB (BHX)",
+    "AirportCode": "BHX"
+  }, {
+    "City": "Bismarck, ND, US (BIS)",
+    "AirportCode": "BIS"
+  }, {
+    "City": "Blantyre, MW (BLZ)",
+    "AirportCode": "BLZ"
+  }, {
+    "City": "Bogotá, CO (BOG)",
+    "AirportCode": "BOG"
+  }, {
+    "City": "Boise, ID, US (BOI)",
+    "AirportCode": "BOI"
+  }, {
+    "City": "Bologna, IT (BLQ)",
+    "AirportCode": "BLQ"
+  }, {
+    "City": "Bonaire, BQ, NL (BON)",
+    "AirportCode": "BON"
+  }, {
+    "City": "Bordeaux, FR (BOD)",
+    "AirportCode": "BOD"
+  }, {
+    "City": "Boston, MA, US (BOS)",
+    "AirportCode": "BOS"
+  }, {
+    "City": "Bozeman, MT, US (BZN)",
+    "AirportCode": "BZN"
+  }, {
+    "City": "Brasília, DF, BR (BSB)",
+    "AirportCode": "BSB"
+  }, {
+    "City": "Bremen, DE (BRE)",
+    "AirportCode": "BRE"
+  }, {
+    "City": "Brisbane, QLD, AU (BNE)",
+    "AirportCode": "BNE"
+  }, {
+    "City": "Bristol, GB (BRS)",
+    "AirportCode": "BRS"
+  }, {
+    "City": "Brownsville, TX, US (BRO)",
+    "AirportCode": "BRO"
+  }, {
+    "City": "Brussels, BE (BRU)",
+    "AirportCode": "BRU"
+  }, {
+    "City": "Bucaramanga, CO (BGA)",
+    "AirportCode": "BGA"
+  }, {
+    "City": "Bucharest, RO (OTP)",
+    "AirportCode": "OTP"
+  }, {
+    "City": "Budapest, HU (BUD)",
+    "AirportCode": "BUD"
+  }, {
+    "City": "Buenos Aires, AR (EZE)",
+    "AirportCode": "EZE"
+  }, {
+    "City": "Buffalo, NY, US (BUF)",
+    "AirportCode": "BUF"
+  }, {
+    "City": "Bujumbura, BI (BJM)",
+    "AirportCode": "BJM"
+  }, {
+    "City": "Burbank, CA, US (BUR)",
+    "AirportCode": "BUR"
+  }, {
+    "City": "Burlington, VT, US (BTV)",
+    "AirportCode": "BTV"
+  }, {
+    "City": "Cabo San Lucas, MX (SJD)",
+    "AirportCode": "SJD"
+  }, {
+    "City": "Cairo, EG (CAI)",
+    "AirportCode": "CAI"
+  }, {
+    "City": "Calgary, AB, CA (YYC)",
+    "AirportCode": "YYC"
+  }, {
+    "City": "Cali, CO (CLO)",
+    "AirportCode": "CLO"
+  }, {
+    "City": "Cancun, MX (CUN)",
+    "AirportCode": "CUN"
+  }, {
+    "City": "Cape Girardeau, MO, US (CGI)",
+    "AirportCode": "CGI"
+  }, {
+    "City": "Cape Town, ZA (CPT)",
+    "AirportCode": "CPT"
+  }, {
+    "City": "Cartagena, CO (CTG)",
+    "AirportCode": "CTG"
+  }, {
+    "City": "Casablanca, MA (CMN)",
+    "AirportCode": "CMN"
+  }, {
+    "City": "Casper, WY, US (CPR)",
+    "AirportCode": "CPR"
+  }, {
+    "City": "Cedar Rapids, IA, US (CID)",
+    "AirportCode": "CID"
+  }, {
+    "City": "Champaign, IL, US (CMI)",
+    "AirportCode": "CMI"
+  }, {
+    "City": "Changchun (CGQ)",
+    "AirportCode": "CGQ"
+  }, {
+    "City": "Changsha (CSX)",
+    "AirportCode": "CSX"
+  }, {
+    "City": "Charleston, SC, US (CHS)",
+    "AirportCode": "CHS"
+  }, {
+    "City": "Charleston, WV, US (CRW)",
+    "AirportCode": "CRW"
+  }, {
+    "City": "Charlotte, NC, US (CLT)",
+    "AirportCode": "CLT"
+  }, {
+    "City": "Charlottesville, VA, US (CHO)",
+    "AirportCode": "CHO"
+  }, {
+    "City": "Charlottetown, PE, CA (YYG)",
+    "AirportCode": "YYG"
+  }, {
+    "City": "Chattanooga, TN, US (CHA)",
+    "AirportCode": "CHA"
+  }, {
+    "City": "Chengdu (CTU)",
+    "AirportCode": "CTU"
+  }, {
+    "City": "Chennai, IN (MAA)",
+    "AirportCode": "MAA"
+  }, {
+    "City": "Cheyenne, WY, US (CYS)",
+    "AirportCode": "CYS"
+  }, {
+    "City": "Chicago, IL, US (MDW - Midway)",
+    "AirportCode": "MDW"
+  }, {
+    "City": "Chicago, IL, US (ORD - O'Hare)",
+    "AirportCode": "ORD"
+  }, {
+    "City": "Chiclayo, PE (CIX)",
+    "AirportCode": "CIX"
+  }, {
+    "City": "Chihuahua, MX (CUU)",
+    "AirportCode": "CUU"
+  }, {
+    "City": "Chongqing (CKG)",
+    "AirportCode": "CKG"
+  }, {
+    "City": "Christchurch, NZ (CHC)",
+    "AirportCode": "CHC"
+  }, {
+    "City": "Chuuk, FM (TKK)",
+    "AirportCode": "TKK"
+  }, {
+    "City": "Cincinnati, OH, US (CVG)"
+  }, {
+    "City": "Ciudad Victoria, MX (CVM)",
+    "AirportCode": "CVM"
+  }, {
+    "City": "Clarksburg, WV, US (CKB)",
+    "AirportCode": "CKB"
+  }, {
+    "City": "Cleveland, OH, US (CLE)",
+    "AirportCode": "CLE"
+  }, {
+    "City": "Cluj-Napoca, RO (CLJ)",
+    "AirportCode": "CLJ"
+  }, {
+    "City": "Cody, WY, US (COD)",
+    "AirportCode": "COD"
+  }, {
+    "City": "Colima, MX (CLQ)",
+    "AirportCode": "CLQ"
+  }, {
+    "City": "College Station, TX, US (CLL)",
+    "AirportCode": "CLL"
+  }, {
+    "City": "Cologne, DE (CGN)",
+    "AirportCode": "CGN"
+  }, {
+    "City": "Colorado Springs, CO, US (COS)",
+    "AirportCode": "COS"
+  }, {
+    "City": "Columbia, MO, US (COU)",
+    "AirportCode": "COU"
+  }, {
+    "City": "Columbia, SC, US (CAE)",
+    "AirportCode": "CAE"
+  }, {
+    "City": "Columbus, OH, US (CMH)",
+    "AirportCode": "CMH"
+  }, {
+    "City": "Conakry, GN (CKY)",
+    "AirportCode": "CKY"
+  }, {
+    "City": "Copenhagen, DK (CPH)",
+    "AirportCode": "CPH"
+  }, {
+    "City": "Cork, IE (ORK)",
+    "AirportCode": "ORK"
+  }, {
+    "City": "Corpus Christi, TX, US (CRP)",
+    "AirportCode": "CRP"
+  }, {
+    "City": "Cotonou, BJ (COO)",
+    "AirportCode": "COO"
+  }, {
+    "City": "Cozumel, MX (CZM)",
+    "AirportCode": "CZM"
+  }, {
+    "City": "Cúcuta, CO (CUC)",
+    "AirportCode": "CUC"
+  }, {
+    "City": "Curacao, CW, NL (CUR)",
+    "AirportCode": "CUR"
+  }, {
+    "City": "Curitiba, PR, BR (CWB)",
+    "AirportCode": "CWB"
+  }, {
+    "City": "Cusco, PE (CUZ)",
+    "AirportCode": "CUZ"
+  }, {
+    "City": "Dakar, SN (DSS - Blaise Diagne)",
+    "AirportCode": "DSS"
+  }, {
+    "City": "Dalian (DLC)",
+    "AirportCode": "DLC"
+  }, {
+    "City": "Dallas/Fort Worth, TX, US (DFW)",
+    "AirportCode": "DFW"
+  }, {
+    "City": "Dar es Salaam, TZ (DAR)",
+    "AirportCode": "DAR"
+  }, {
+    "City": "David, PA (DAV)",
+    "AirportCode": "DAV"
+  }, {
+    "City": "Dayong (DYG)",
+    "AirportCode": "DYG"
+  }, {
+    "City": "Dayton, OH, US (DAY)",
+    "AirportCode": "DAY"
+  }, {
+    "City": "Delhi, IN (DEL)",
+    "AirportCode": "DEL"
+  }, {
+    "City": "Denver, CO, US (DEN)",
+    "AirportCode": "DEN"
+  }, {
+    "City": "Des Moines, IA, US (DSM)",
+    "AirportCode": "DSM"
+  }, {
+    "City": "Destin/Fort Walton Beach, FL, US (VPS)",
+    "AirportCode": "VPS"
+  }, {
+    "City": "Detroit, MI, US (DTW)",
+    "AirportCode": "DTW"
+  }, {
+    "City": "Devils Lake, ND, US (DVL)",
+    "AirportCode": "DVL"
+  }, {
+    "City": "Diass, SN (DSS - Blaise DIiagne Intl)Diass, SN (DSS - Blaise DIiagne Intl)",
+    "AirportCode": "DSS"
+  }, {
+    "City": "Djibouti, DJ (JIB)",
+    "AirportCode": "JIB"
+  }, {
+    "City": "Dongsheng (DSN)",
+    "AirportCode": "DSN"
+  }, {
+    "City": "Dortmund, DE (DTM)",
+    "AirportCode": "DTM"
+  }, {
+    "City": "Douala, CM (DLA)",
+    "AirportCode": "DLA"
+  }, {
+    "City": "Dresden, DE (DRS)",
+    "AirportCode": "DRS"
+  }, {
+    "City": "Dubai, AE (DXB)",
+    "AirportCode": "DXB"
+  }, {
+    "City": "Dublin, IE (DUB)",
+    "AirportCode": "DUB"
+  }, {
+    "City": "Dubrovnik, HR (DBV)",
+    "AirportCode": "DBV"
+  }, {
+    "City": "Duluth, MN, US (DLH)",
+    "AirportCode": "DLH"
+  }, {
+    "City": "Dunedin, NZ (DUD)",
+    "AirportCode": "DUD"
+  }, {
+    "City": "Durango, CO, US (DRO)",
+    "AirportCode": "DRO"
+  }, {
+    "City": "Durban, ZA (DUR)",
+    "AirportCode": "DUR"
+  }, {
+    "City": "Dusseldorf, DE (DUS)",
+    "AirportCode": "DUS"
+  }, {
+    "City": "East London, ZA (ELS)",
+    "AirportCode": "ELS"
+  }, {
+    "City": "Eau Claire, WI, US (EAU)",
+    "AirportCode": "EAU"
+  }, {
+    "City": "Edinburgh, GB (EDI)",
+    "AirportCode": "EDI"
+  }, {
+    "City": "Edmonton, AB, CA (YEG)",
+    "AirportCode": "YEG"
+  }, {
+    "City": "El Paso, TX, US (ELP)",
+    "AirportCode": "ELP"
+  }, {
+    "City": "Elmira, NY, US (ELM)",
+    "AirportCode": "ELM"
+  }, {
+    "City": "Entebbe, UG (EBB)",
+    "AirportCode": "EBB"
+  }, {
+    "City": "Erie, PA, US (ERI)",
+    "AirportCode": "ERI"
+  }, {
+    "City": "Eugene, OR, US (EUG)",
+    "AirportCode": "EUG"
+  }, {
+    "City": "Eureka, CA, US (ACV)",
+    "AirportCode": "ACV"
+  }, {
+    "City": "Evansville, IN, US (EVV)",
+    "AirportCode": "EVV"
+  }, {
+    "City": "Fairbanks, AK, US (FAI)",
+    "AirportCode": "FAI"
+  }, {
+    "City": "Fargo, ND, US (FAR)",
+    "AirportCode": "FAR"
+  }, {
+    "City": "Faro, PT (FAO)",
+    "AirportCode": "FAO"
+  }, {
+    "City": "Fayetteville, NC, US (FAY)",
+    "AirportCode": "FAY"
+  }, {
+    "City": "Flint, MI, US (FNT)",
+    "AirportCode": "FNT"
+  }, {
+    "City": "Florence, IT (FLR)",
+    "AirportCode": "FLR"
+  }, {
+    "City": "Flores, GT (FRS)",
+    "AirportCode": "FRS"
+  }, {
+    "City": "Florianópolis, SC, BR (FLN)",
+    "AirportCode": "FLN"
+  }, {
+    "City": "Fort Lauderdale, FL, US (FLL)",
+    "AirportCode": "FLL"
+  }, {
+    "City": "Fort McMurray, AB, CA (YMM)",
+    "AirportCode": "YMM"
+  }, {
+    "City": "Fort Myers, FL, US (RSW)",
+    "AirportCode": "RSW"
+  }, {
+    "City": "Fort Wayne, IN, US (FWA)",
+    "AirportCode": "FWA"
+  }, {
+    "City": "Fortaleza, CE, BR (FOR)",
+    "AirportCode": "FOR"
+  }, {
+    "City": "Foz do Iguaçu, PR, BR (IGU)",
+    "AirportCode": "IGU"
+  }, {
+    "City": "Frankfurt, DE (FRA)",
+    "AirportCode": "FRA"
+  }, {
+    "City": "Fredericton, NB, CA (YFC)",
+    "AirportCode": "YFC"
+  }, {
+    "City": "Freeport, BS (FPO)",
+    "AirportCode": "FPO"
+  }, {
+    "City": "Freetown, SL (FNA)",
+    "AirportCode": "FNA"
+  }, {
+    "City": "Fresno, CA, US (FAT)",
+    "AirportCode": "FAT"
+  }, {
+    "City": "Friedrichshafen, DE (FDH)",
+    "AirportCode": "FDH"
+  }, {
+    "City": "Fukuoka, JP (FUK)",
+    "AirportCode": "FUK"
+  }, {
+    "City": "Funchal, PT (FNC)",
+    "AirportCode": "FNC"
+  }, {
+    "City": "Fuzhou (FOC)",
+    "AirportCode": "FOC"
+  }, {
+    "City": "Gdansk, PL (GDN)",
+    "AirportCode": "GDN"
+  }, {
+    "City": "Geneva, CH (GVA)",
+    "AirportCode": "GVA"
+  }, {
+    "City": "Genoa, IT (GOA)",
+    "AirportCode": "GOA"
+  }, {
+    "City": "George Town, BS (GGT)",
+    "AirportCode": "GGT"
+  }, {
+    "City": "Gillette, WY, US (GCC)",
+    "AirportCode": "GCC"
+  }, {
+    "City": "Glasgow, GB (GLA - International)",
+    "AirportCode": "GLA"
+  }, {
+    "City": "Goiânia, GO, BR (GYN)",
+    "AirportCode": "GYN"
+  }, {
+    "City": "Gothenburg, SE (GOT)",
+    "AirportCode": "GOT"
+  }, {
+    "City": "Governor's Harbour, BS (GHB)",
+    "AirportCode": "GHB"
+  }, {
+    "City": "Grand Cayman, KY (GCM)",
+    "AirportCode": "GCM"
+  }, {
+    "City": "Grand Junction, CO, US (GJT)"
+  }, {
+    "City": "Grand Rapids, MI, US (GRR)",
+    "AirportCode": "GRR"
+  }, {
+    "City": "Grande Prairie, AB, CA (YQU)",
+    "AirportCode": "YQU"
+  }, {
+    "City": "Graz, AT (GRZ)",
+    "AirportCode": "GRZ"
+  }, {
+    "City": "Great Falls, MT, US (GTF)",
+    "AirportCode": "GTF"
+  }, {
+    "City": "Green Bay, WI, US (GRB)",
+    "AirportCode": "GRB"
+  }, {
+    "City": "Greensboro, NC, US (GSO)",
+    "AirportCode": "GSO"
+  }, {
+    "City": "Greenville, SC, US (GSP)",
+    "AirportCode": "GSP"
+  }, {
+    "City": "Guadalajara, MX (GDL)",
+    "AirportCode": "GDL"
+  }, {
+    "City": "Guam, GU, US (GUM)",
+    "AirportCode": "GUM"
+  }, {
+    "City": "Guangzhou (CAN)",
+    "AirportCode": "CAN"
+  }, {
+    "City": "Guantánamo Bay, CU (NBW)",
+    "AirportCode": "NBW"
+  }, {
+    "City": "Guatemala City, GT (GUA)",
+    "AirportCode": "GUA"
+  }, {
+    "City": "Guayaquil, EC (GYE)",
+    "AirportCode": "GYE"
+  }, {
+    "City": "Guiyang (KWE)",
+    "AirportCode": "KWE"
+  }, {
+    "City": "Gulfport, MS, US (GPT)",
+    "AirportCode": "GPT"
+  }, {
+    "City": "Gunnison, CO, US (GUC)",
+    "AirportCode": "GUC"
+  }, {
+    "City": "Haikou (HAK)",
+    "AirportCode": "HAK"
+  }, {
+    "City": "Halifax, NS, CA (YHZ)",
+    "AirportCode": "YHZ"
+  }, {
+    "City": "Hamburg, DE (HAM)",
+    "AirportCode": "HAM"
+  }, {
+    "City": "Hancock, MI, US (CMX)",
+    "AirportCode": "CMX"
+  }, {
+    "City": "Hangzhou (HGH)",
+    "AirportCode": "HGH"
+  }, {
+    "City": "Hannover, DE (HAJ)",
+    "AirportCode": "BMI Regional, Lufthansa Cityline, Lufthansa, SWISS International Airlines, SWISS Global Airlines, Austrian Airlines, Cityjet"
+  }, {
+    "City": "Hanoi, VN (HAN)",
+    "AirportCode": "HAN"
+  }, {
+    "City": "Harbin (HRB)",
+    "AirportCode": "HRB"
+  }, {
+    "City": "Harlingen, TX, US (HRL)",
+    "AirportCode": "HRL"
+  }, {
+    "City": "Harrisburg, PA, US (MDT)",
+    "AirportCode": "MDT"
+  }, {
+    "City": "Hartford, CT, US (BDL)",
+    "AirportCode": "BDL"
+  }, {
+    "City": "Havana, CU (HAV)",
+    "AirportCode": "HAV"
+  }, {
+    "City": "Hays, KS, US (HYS)",
+    "AirportCode": "HYS"
+  }, {
+    "City": "Hefei (HFE)",
+    "AirportCode": "HFE"
+  }, {
+    "City": "Helena, MT, US (HLN)",
+    "AirportCode": "HLN"
+  }, {
+    "City": "Helsinki, FI (HEL)"
+  }, {
+    "City": "Hilo, HI, US (ITO)",
+    "AirportCode": "ITO"
+  }, {
+    "City": "Hiroshima, JP (HIJ)",
+    "AirportCode": "HIJ"
+  }, {
+    "City": "Ho Chi Minh City, VN (SGN)",
+    "AirportCode": "SGN"
+  }, {
+    "City": "Hobbs, NM, US (HOB)",
+    "AirportCode": "HOB"
+  }, {
+    "City": "Hohhot (HET)",
+    "AirportCode": "HET"
+  }, {
+    "City": "Hong Kong (HKG)",
+    "AirportCode": "HKG"
+  }, {
+    "City": "Honolulu, HI, US (HNL)",
+    "AirportCode": "HNL"
+  }, {
+    "City": "Houston, TX, US (IAH - Intercontinental)",
+    "AirportCode": "IAH"
+  }, {
+    "City": "Huatulco, MX (HUX)",
+    "AirportCode": "HUX"
+  }, {
+    "City": "Huntsville, AL, US (HSV)",
+    "AirportCode": "HSV"
+  }, {
+    "City": "Idaho Falls, ID, US (IDA)",
+    "AirportCode": "IDA"
+  }, {
+    "City": "Indianapolis, IN, US (IND)",
+    "AirportCode": "IND"
+  }, {
+    "City": "Innsbruck, AT (INN)",
+    "AirportCode": "INN"
+  }, {
+    "City": "Istanbul, TR (IST - Atatürk)",
+    "AirportCode": "IST"
+  }, {
+    "City": "Ithaca, NY, US (ITH)",
+    "AirportCode": "ITH"
+  }, {
+    "City": "Iwakuni, JP (IWK)",
+    "AirportCode": "IWK"
+  }, {
+    "City": "Ixtapa, MX (ZIH)",
+    "AirportCode": "ZIH"
+  }, {
+    "City": "Izmir, TR (ADB)",
+    "AirportCode": "ADB"
+  }, {
+    "City": "Jackson Hole, WY, US (JAC)",
+    "AirportCode": "JAC"
+  }, {
+    "City": "Jackson, MS, US (JAN)",
+    "AirportCode": "JAN"
+  }, {
+    "City": "Jacksonville, FL, US (JAX)",
+    "AirportCode": "JAX"
+  }, {
+    "City": "Jakarta, ID (CGK - Soekarno-Hatta)",
+    "AirportCode": "CGK"
+  }, {
+    "City": "Jamestown, ND, US (JMS)",
+    "AirportCode": "JMS"
+  }, {
+    "City": "Jeddah, SA (JED)",
+    "AirportCode": "JED"
+  }, {
+    "City": "Johannesburg, ZA (JNB)",
+    "AirportCode": "JNB"
+  }, {
+    "City": "Kahului, HI, US (OGG)",
+    "AirportCode": "OGG"
+  }, {
+    "City": "Kalamazoo, MI, US (AZO)",
+    "AirportCode": "AZO"
+  }, {
+    "City": "Kalispell, MT, US (FCA - Glacier National Park)",
+    "AirportCode": "FCA"
+  }, {
+    "City": "Kansas City, MO (MKC)",
+    "AirportCode": "MKC"
+  }, {
+    "City": "Kansas City, MO, US (MCI)",
+    "AirportCode": "MCI"
+  }, {
+    "City": "Katowice, PL (KTW)",
+    "AirportCode": "KTW"
+  }, {
+    "City": "Kearney, NE, US (EAR)",
+    "AirportCode": "EAR"
+  }, {
+    "City": "Kelowna, BC, CA (YLW)",
+    "AirportCode": "YLW"
+  }, {
+    "City": "Key West, FL, US (EYW)",
+    "AirportCode": "EYW"
+  }, {
+    "City": "Kiev, UA (KBP - Boryspil)",
+    "AirportCode": "KBP"
+  }, {
+    "City": "Kigali, RW (KGL)",
+    "AirportCode": "KGL"
+  }, {
+    "City": "Kilimanjaro, TZ (JRO)",
+    "AirportCode": "JRO"
+  }, {
+    "City": "Killeen, TX, US (GRK)",
+    "AirportCode": "GRK"
+  }, {
+    "City": "Kingston, JM (KIN)",
+    "AirportCode": "KIN"
+  }, {
+    "City": "Kinshasa, CG (FIH)",
+    "AirportCode": "FIH"
+  }, {
+    "City": "Knoxville, TN, US (TYS)",
+    "AirportCode": "TYS"
+  }, {
+    "City": "Komatsu, JP (KMQ)",
+    "AirportCode": "KMQ"
+  }, {
+    "City": "Kona, HI, US (KOA)",
+    "AirportCode": "KOA"
+  }, {
+    "City": "Koror, PW (ROR)",
+    "AirportCode": "ROR"
+  }, {
+    "City": "Kosrae, FM (KSA)",
+    "AirportCode": "KSA"
+  }, {
+    "City": "Krakow, PL (KRK)",
+    "AirportCode": "KRK"
+  }, {
+    "City": "Kuala Lumpur, MY (KUL)",
+    "AirportCode": "KUL"
+  }, {
+    "City": "Kunming (KMG)",
+    "AirportCode": "KMG"
+  }, {
+    "City": "Kuwait, KW (KWI)",
+    "AirportCode": "KWI"
+  }, {
+    "City": "Kwajalein, MH (KWA)",
+    "AirportCode": "KWA"
+  }, {
+    "City": "Lafayette, LA, US (LFT)",
+    "AirportCode": "LFT"
+  }, {
+    "City": "Lagos, NG (LOS)",
+    "AirportCode": "LOS"
+  }, {
+    "City": "Lake Charles, LA, US (LCH)",
+    "AirportCode": "LCH"
+  }, {
+    "City": "Lansing, MI, US (LAN)",
+    "AirportCode": "LAN"
+  }, {
+    "City": "Lanzhou (LHW)",
+    "AirportCode": "LHW"
+  }, {
+    "City": "Laramie, WY, US (LAR)",
+    "AirportCode": "LAR"
+  }, {
+    "City": "Laredo, TX, US (LRD)",
+    "AirportCode": "LRD"
+  }, {
+    "City": "Larnaca, CY (LCA)",
+    "AirportCode": "LCA"
+  }, {
+    "City": "Las Vegas, NV, US (LAS)",
+    "AirportCode": "LAS"
+  }, {
+    "City": "Lazaro Cardenas, MX (LZC)",
+    "AirportCode": "LZC"
+  }, {
+    "City": "Leipzig, DE (LEJ)",
+    "AirportCode": "LEJ"
+  }, {
+    "City": "Leon/Guanajuato, MX (BJX)",
+    "AirportCode": "BJX"
+  }, {
+    "City": "LWB"
+  }, {
+    "City": "Lexington, KY, US (LEX)",
+    "AirportCode": "LEX"
+  }, {
+    "City": "Liberal, KS, US (LBL)",
+    "AirportCode": "LBL"
+  }, {
+    "City": "Liberia, CR (LIR)",
+    "AirportCode": "LIR"
+  }, {
+    "City": "Lihue, HI, US (LIH)",
+    "AirportCode": "LIH"
+  }, {
+    "City": "Lijiang City (LJG)",
+    "AirportCode": "LJG"
+  }, {
+    "City": "Lilongwe, MW (LLW)",
+    "AirportCode": "LLW"
+  }, {
+    "City": "Lima, PE (LIM)",
+    "AirportCode": "LIM"
+  }, {
+    "City": "Lincoln, NE, US (LNK)",
+    "AirportCode": "LNK"
+  }, {
+    "City": "Linz, AT (LNZ)",
+    "AirportCode": "LNZ"
+  }, {
+    "City": "Lisbon, PT (LIS)",
+    "AirportCode": "LIS"
+  }, {
+    "City": "Little Rock, AR, US (LIT)",
+    "AirportCode": "LIT"
+  }, {
+    "City": "Liuzhou (LZH)",
+    "AirportCode": "LZH"
+  }, {
+    "City": "Lome, TG (LFW)",
+    "AirportCode": "LFW"
+  }, {
+    "City": "London, GB (LCY - City)",
+    "AirportCode": "LCY"
+  }, {
+    "City": "London, GB (LGW - Gatwick)",
+    "AirportCode": "LGW"
+  }, {
+    "City": "London, GB (LHR - Heathrow)",
+    "AirportCode": "LHR"
+  }, {
+    "City": "London, ON, CA (YXU)",
+    "AirportCode": "YXU"
+  }, {
+    "City": "Long Beach, CA, US (LGB)",
+    "AirportCode": "LGB"
+  }, {
+    "City": "Los Angeles, CA, US (LAX)",
+    "AirportCode": "LAX"
+  }, {
+    "City": "Louisville, KY, US (SDF)",
+    "AirportCode": "SDF"
+  }, {
+    "City": "Luanda, AO (LAD)",
+    "AirportCode": "LAD"
+  }, {
+    "City": "Lubbock, TX, US (LBB)",
+    "AirportCode": "LBB"
+  }, {
+    "City": "Lubumbashi, CG (FBM)",
+    "AirportCode": "FBM"
+  }, {
+    "City": "Lulea, SE (LLA)",
+    "AirportCode": "LLA"
+  }, {
+    "City": "Luqa, MT (MLA)",
+    "AirportCode": "MLA"
+  }, {
+    "City": "Luxembourg, LU (LUX)",
+    "AirportCode": "LUX"
+  }, {
+    "City": "Lyon, FR (LYS)",
+    "AirportCode": "LYS"
+  }, {
+    "City": "Madison, WI, US (MSN)",
+    "AirportCode": "MSN"
+  }, {
+    "City": "Madrid, ES (MAD)",
+    "AirportCode": "MAD"
+  }, {
+    "City": "Majuro, MH (MAJ)",
+    "AirportCode": "MAJ"
+  }, {
+    "City": "Mammoth Lakes, CA, US (MMH)",
+    "AirportCode": "MMH"
+  }, {
+    "City": "Managua, NI (MGA)",
+    "AirportCode": "MGA"
+  }, {
+    "City": "Manaus, AM, BR (MAO)",
+    "AirportCode": "MAO"
+  }, {
+    "City": "Manchester, GB (MAN)",
+    "AirportCode": "MAN"
+  }, {
+    "City": "Manchester, NH, US (MHT)",
+    "AirportCode": "MHT"
+  }, {
+    "City": "Manila, PH (MNL)",
+    "AirportCode": "MNL"
+  }, {
+    "City": "Manzanillo, MX (ZLO)",
+    "AirportCode": "ZLO"
+  }, {
+    "City": "Maputo, MZ (MPM)",
+    "AirportCode": "MPM"
+  }, {
+    "City": "Marseille, FR (MRS)",
+    "AirportCode": "MRS"
+  }, {
+    "City": "Marsh Harbour, BS (MHH)",
+    "AirportCode": "MHH"
+  }, {
+    "City": "Mayagüez, PR, US (MAZ)"
+  }, {
+    "City": "Mazatlan, MX (MZT)",
+    "AirportCode": "MZT"
+  }, {
+    "City": "McAllen, TX, US (MFE)",
+    "AirportCode": "MFE"
+  }, {
+    "City": "Medellín, CO (MDE)",
+    "AirportCode": "MDE"
+  }, {
+    "City": "Medford, OR, US (MFR)",
+    "AirportCode": "MFR"
+  }, {
+    "City": "Melbourne, VIC, AU (MEL - Tullamarine)",
+    "AirportCode": "MEL"
+  }, {
+    "City": "Memphis, TN, US (MEM)",
+    "AirportCode": "MEM"
+  }, {
+    "City": "Merida, MX (MID)",
+    "AirportCode": "MID"
+  }, {
+    "City": "Mexico City, MX (MEX)",
+    "AirportCode": "MEX"
+  }, {
+    "City": "Miami, FL, US (MIA)",
+    "AirportCode": "MIA"
+  }, {
+    "City": "Mianyang (MIG)",
+    "AirportCode": "MIG"
+  }, {
+    "City": "Midland, TX, US (MAF)",
+    "AirportCode": "MAF"
+  }, {
+    "City": "Milan, IT (LIN - Linate)",
+    "AirportCode": "LIN"
+  }, {
+    "City": "Milan, IT (MXP - Malpensa)",
+    "AirportCode": "MXP"
+  }, {
+    "City": "Milwaukee, WI, US (MKE)",
+    "AirportCode": "MKE"
+  }, {
+    "City": "Minneapolis/St. Paul, MN, US (MSP)",
+    "AirportCode": "MSP"
+  }, {
+    "City": "Minot, ND, US (MOT)",
+    "AirportCode": "MOT"
+  }, {
+    "City": "Misawa, JP (MSJ)",
+    "AirportCode": "MSJ"
+  }, {
+    "City": "Missoula, MT, US (MSO)",
+    "AirportCode": "MSO"
+  }, {
+    "City": "Moab, UT, US (CNY)",
+    "AirportCode": "CNY"
+  }, {
+    "City": "Mobile, AL, US (MOB)",
+    "AirportCode": "MOB"
+  }, {
+    "City": "Moline, IL, US (MLI)",
+    "AirportCode": "MLI"
+  }, {
+    "City": "Mombasa, KE (MBA)",
+    "AirportCode": "MBA"
+  }, {
+    "City": "Monroe, LA, US (MLU)",
+    "AirportCode": "MLU"
+  }, {
+    "City": "Monrovia, LR (ROB)",
+    "AirportCode": "Brussels Airlines"
+  }, {
+    "City": "Montego Bay, JM (MBJ)",
+    "AirportCode": "MBJ"
+  }, {
+    "City": "Monterey, CA, US (MRY)",
+    "AirportCode": "MRY"
+  }, {
+    "City": "Monterrey, MX (MTY)",
+    "AirportCode": "MTY"
+  }, {
+    "City": "Montevideo, UY (MVD)",
+    "AirportCode": "MVD"
+  }, {
+    "City": "Montreal, QC, CA (YUL - Trudeau)",
+    "AirportCode": "YUL"
+  }, {
+    "City": "Montrose, CO, US (MTJ)",
+    "AirportCode": "MTJ"
+  }, {
+    "City": "Morelia, MX (MLM)",
+    "AirportCode": "MLM"
+  }, {
+    "City": "Moscow, RU (DME - Domodedovo)",
+    "AirportCode": "DME"
+  }, {
+    "City": "Muenster, DE (FMO)",
+    "AirportCode": "FMO"
+  }, {
+    "City": "Mumbai, IN (BOM)",
+    "AirportCode": "BOM"
+  }, {
+    "City": "Munich, DE (MUC)",
+    "AirportCode": "MUC"
+  }, {
+    "City": "Muscat, OM (MCT)",
+    "AirportCode": "MCT"
+  }, {
+    "City": "Muskegon, MI, US (MKG)"
+  }, {
+    "City": "Myrtle Beach, SC, US (MYR)",
+    "AirportCode": "MYR"
+  }, {
+    "City": "Nadi, FJ (NAN)",
+    "AirportCode": "NAN"
+  }, {
+    "City": "Nagoya, JP (NGO)",
+    "AirportCode": "NGO"
+  }, {
+    "City": "Nairobi, KE (NBO)",
+    "AirportCode": "NBO"
+  }, {
+    "City": "Nanchang (KHN)",
+    "AirportCode": "KHN"
+  }, {
+    "City": "Nanjing (NKG)",
+    "AirportCode": "NKG"
+  }, {
+    "City": "Nantucket, MA, US (ACK)",
+    "AirportCode": "ACK"
+  }, {
+    "City": "Naples, IT (NAP)",
+    "AirportCode": "NAP"
+  }, {
+    "City": "Nashville, TN, US (BNA)",
+    "AirportCode": "BNA"
+  }, {
+    "City": "Nassau, BS (NAS)",
+    "AirportCode": "NAS"
+  }, {
+    "City": "Natal, RN, BR (NAT)",
+    "AirportCode": "NAT"
+  }, {
+    "City": "Navegantes, SC, BR (NVT)",
+    "AirportCode": "NVT"
+  }, {
+    "City": "Ndola, ZM (NLA)",
+    "AirportCode": "NLA"
+  }, {
+    "City": "Neiva, CO (NVA)",
+    "AirportCode": "NVA"
+  }, {
+    "City": "New Haven, CT, US (ZVE - Rail Station)",
+    "AirportCode": "ZVE"
+  }, {
+    "City": "New Orleans, LA, US (MSY)",
+    "AirportCode": "MSY"
+  }, {
+    "City": "New York, NY, US (JFK - Kennedy)",
+    "AirportCode": "JFK"
+  }, {
+    "City": "New York, NY, US (LGA - LaGuardia)",
+    "AirportCode": "LGA"
+  }, {
+    "City": "New York/Newark, NJ, US (EWR - Liberty)",
+    "AirportCode": "EWR"
+  }, {
+    "City": "Nice, FR (NCE)",
+    "AirportCode": "NCE"
+  }, {
+    "City": "Ningbo (NGB)",
+    "AirportCode": "NGB"
+  }, {
+    "City": "Norfolk, VA, US (ORF)",
+    "AirportCode": "ORF"
+  }, {
+    "City": "North Bend, OR, US (OTH)",
+    "AirportCode": "OTH"
+  }, {
+    "City": "North Eleuthera, BS (ELH)",
+    "AirportCode": "ELH"
+  }, {
+    "City": "North Platte, NE, US (LBF)",
+    "AirportCode": "LBF"
+  }, {
+    "City": "Nuremberg, DE (NUE)",
+    "AirportCode": "NUE"
+  }, {
+    "City": "Oakland, CA, US (OAK)",
+    "AirportCode": "OAK"
+  }, {
+    "City": "Oaxaca, MX (OAX)",
+    "AirportCode": "OAX"
+  }, {
+    "City": "Oita, JP (OIT)",
+    "AirportCode": "OIT"
+  }, {
+    "City": "Okinawa, JP (OKA)",
+    "AirportCode": "OKA"
+  }, {
+    "City": "Oklahoma City, OK, US (OKC)",
+    "AirportCode": "OKC"
+  }, {
+    "City": "Omaha, NE, US (OMA)",
+    "AirportCode": "OMA"
+  }, {
+    "City": "Ontario, CA, US (ONT)",
+    "AirportCode": "ONT"
+  }, {
+    "City": "Orange County, CA, US (SNA)",
+    "AirportCode": "SNA"
+  }, {
+    "City": "Orlando, FL, US (MCO)",
+    "AirportCode": "MCO"
+  }, {
+    "City": "Osaka, JP (ITM - Itami)",
+    "AirportCode": "ITM"
+  }, {
+    "City": "Osaka, JP (KIX - Kansai)",
+    "AirportCode": "KIX"
+  }, {
+    "City": "Oslo, NO (OSL - Gardermoen)",
+    "AirportCode": "OSL"
+  }, {
+    "City": "Ottawa, ON, CA (YOW)",
+    "AirportCode": "YOW"
+  }, {
+    "City": "Ouagadougou, BF (OUA)",
+    "AirportCode": "OUA"
+  }, {
+    "City": "Paderborn, DE (PAD)",
+    "AirportCode": "PAD"
+  }, {
+    "City": "Paducah, KY, US (PAH)",
+    "AirportCode": "PAH"
+  }, {
+    "City": "Page, AZ, US (PGA)",
+    "AirportCode": "PGA"
+  }, {
+    "City": "Palm Springs, CA, US (PSP)",
+    "AirportCode": "PSP"
+  }, {
+    "City": "Palma, ES (PMI)",
+    "AirportCode": "PMI"
+  }, {
+    "City": "Panama City, FL, US (ECP)",
+    "AirportCode": "ECP"
+  }, {
+    "City": "Panamá City, PA (PTY)",
+    "AirportCode": "PTY"
+  }, {
+    "City": "Papeete, PF (PPT - Tahiti)",
+    "AirportCode": "PPT"
+  }, {
+    "City": "Paris, FR (CDG - Charles de Gaulle)",
+    "AirportCode": "CDG"
+  }, {
+    "City": "Pasco, WA, US (PSC)",
+    "AirportCode": "PSC"
+  }, {
+    "City": "Pensacola, FL, US (PNS)",
+    "AirportCode": "PNS"
+  }, {
+    "City": "Peoria, IL, US (PIA)",
+    "AirportCode": "PIA"
+  }, {
+    "City": "Pereira, CO (PEI)",
+    "AirportCode": "PEI"
+  }, {
+    "City": "Perth, WA, AU (PER)",
+    "AirportCode": "PER"
+  }, {
+    "City": "Philadelphia, PA, US (PHL)",
+    "AirportCode": "PHL"
+  }, {
+    "City": "Philadelphia, PA, US (ZFV - Rail Station)",
+    "AirportCode": "ZFV"
+  }, {
+    "City": "Phnom Penh, KH (PNH)",
+    "AirportCode": "PNH"
+  }, {
+    "City": "Phoenix, AZ, US (PHX)",
+    "AirportCode": "PHX"
+  }, {
+    "City": "Phuket, TH (HKT)",
+    "AirportCode": "HKT"
+  }, {
+    "City": "Piedras Negras, MX (PDS)",
+    "AirportCode": "PDS"
+  }, {
+    "City": "Pisa, IT (PSA)",
+    "AirportCode": "PSA"
+  }, {
+    "City": "Pittsburgh, PA, US (PIT)",
+    "AirportCode": "PIT"
+  }, {
+    "City": "Piura, PE (PIU)",
+    "AirportCode": "PIU"
+  }, {
+    "City": "Pohnpei, FM (PNI)",
+    "AirportCode": "PNI"
+  }, {
+    "City": "Pontiac, MI (PTK)",
+    "AirportCode": "PTK"
+  }, {
+    "City": "Port Elizabeth, ZA (PLZ)",
+    "AirportCode": "PLZ"
+  }, {
+    "City": "Port Harcourt, NG (PHC)",
+    "AirportCode": "PHC"
+  }, {
+    "City": "Port of Spain, TT (POS)",
+    "AirportCode": "POS"
+  }, {
+    "City": "Portland, ME, US (PWM)",
+    "AirportCode": "PWM"
+  }, {
+    "City": "Portland, OR, US (PDX)",
+    "AirportCode": "PDX"
+  }, {
+    "City": "Porto Alegre, RS, BR (POA)",
+    "AirportCode": "POA"
+  }, {
+    "City": "Porto, PT (OPO)",
+    "AirportCode": "OPO"
+  }, {
+    "City": "Prague, CZ (PRG)",
+    "AirportCode": "PRG"
+  }, {
+    "City": "Prescott, AZ, US (PRC)",
+    "AirportCode": "PRC"
+  }, {
+    "City": "Providence, RI, US (PVD)",
+    "AirportCode": "PVD"
+  }, {
+    "City": "Providenciales, TC, GB (PLS)",
+    "AirportCode": "PLS"
+  }, {
+    "City": "Puebla, MX (PBC)",
+    "AirportCode": "PBC"
+  }, {
+    "City": "Pueblo, CO, US (PUB)",
+    "AirportCode": "PUB"
+  }, {
+    "City": "Puerto Escondido, MX (PXM)",
+    "AirportCode": "PXM"
+  }, {
+    "City": "Puerto Plata, DO (POP)",
+    "AirportCode": "POP"
+  }, {
+    "City": "Puerto Vallarta, MX (PVR)",
+    "AirportCode": "PVR"
+  }, {
+    "City": "Pune, IN (PNQ)",
+    "AirportCode": "PNQ"
+  }, {
+    "City": "Punta Cana, DO (PUJ)",
+    "AirportCode": "PUJ"
+  }, {
+    "City": "Qingdao (TAO)",
+    "AirportCode": "TAO"
+  }, {
+    "City": "Quebec City, QC, CA (YQB)",
+    "AirportCode": "YQB"
+  }, {
+    "City": "Queenstown, NZ (ZQN)",
+    "AirportCode": "ZQN"
+  }, {
+    "City": "Queretaro, MX (QRO)",
+    "AirportCode": "QRO"
+  }, {
+    "City": "Quincy, IL, US (UIN)",
+    "AirportCode": "UIN"
+  }, {
+    "City": "Quito, EC (UIO)",
+    "AirportCode": "UIO"
+  }, {
+    "City": "Raleigh/Durham, NC, US (RDU)",
+    "AirportCode": "RDU"
+  }, {
+    "City": "Rapid City, SD, US (RAP)",
+    "AirportCode": "RAP"
+  }, {
+    "City": "Rarotonga, CK (RAR)",
+    "AirportCode": "RAR"
+  }, {
+    "City": "Recife, PE, BR (REC)",
+    "AirportCode": "REC"
+  }, {
+    "City": "Redding, CA, US (RDD)",
+    "AirportCode": "RDD"
+  }, {
+    "City": "Redmond, OR, US (RDM)",
+    "AirportCode": "RDM"
+  }, {
+    "City": "Regina, SK, CA (YQR)",
+    "AirportCode": "YQR"
+  }, {
+    "City": "Reno, NV, US (RNO)",
+    "AirportCode": "RNO"
+  }, {
+    "City": "Reykjavík, IS (KEF)",
+    "AirportCode": "KEF"
+  }, {
+    "City": "Richmond, VA, US (RIC)",
+    "AirportCode": "RIC"
+  }, {
+    "City": "Riga, LV (RIX)",
+    "AirportCode": "RIX"
+  }, {
+    "City": "Rio de Janeiro, RJ, BR (GIG - Galeão)",
+    "AirportCode": "GIG"
+  }, {
+    "City": "Rio de Janeiro, RJ, BR (SDU - Santos Dumont)"
+  }, {
+    "City": "Riverside, CA, US (RIV)"
+  }, {
+    "City": "Roanoke, VA, US (ROA)",
+    "AirportCode": "ROA"
+  }, {
+    "City": "Roatán, HN (RTB)",
+    "AirportCode": "RTB"
+  }, {
+    "City": "Rochester, MN, US (RST)",
+    "AirportCode": "RST"
+  }, {
+    "City": "Rochester, NY, US (ROC)",
+    "AirportCode": "ROC"
+  }, {
+    "City": "Rock Springs, WY, US (RKS)",
+    "AirportCode": "RKS"
+  }, {
+    "City": "Rome, IT (FCO - Fiumicino)",
+    "AirportCode": "FCO"
+  }, {
+    "City": "Rota, MP, US (ROP)",
+    "AirportCode": "ROP"
+  }, {
+    "City": "Sacramento, CA, US (SMF)",
+    "AirportCode": "SMF"
+  }, {
+    "City": "Saginaw, MI, US (MBS)",
+    "AirportCode": "MBS"
+  }, {
+    "City": "Saipan, MP, US (SPN)",
+    "AirportCode": "SPN"
+  }, {
+    "City": "Salina, KS, US (SLN)",
+    "AirportCode": "SLN"
+  }, {
+    "City": "Salt Lake City, UT, US (SLC)",
+    "AirportCode": "SLC"
+  }, {
+    "City": "Salvador, BA, BR (SSA)",
+    "AirportCode": "SSA"
+  }, {
+    "City": "San Antonio, TX, US (SAT)",
+    "AirportCode": "SAT"
+  }, {
+    "City": "San Diego, CA, US (SAN)",
+    "AirportCode": "SAN"
+  }, {
+    "City": "San Francisco, CA, US (SFO)",
+    "AirportCode": "SFO"
+  }, {
+    "City": "San Jose, CA, US (SJC)",
+    "AirportCode": "SJC"
+  }, {
+    "City": "San José, CR (SJO)"
+  }, {
+    "City": "San Juan, PR, US (SJU - Luis Muñoz Marín)",
+    "AirportCode": "SJU"
+  }, {
+    "City": "San Luis Obispo, CA, US (SBP)"
+  }, {
+    "City": "San Luis Potosi, MX (SLP)",
+    "AirportCode": "SLP"
+  }, {
+    "City": "San Pedro Sula, HN (SAP)",
+    "AirportCode": "SAP"
+  }, {
+    "City": "San Salvador, SV (SAL)",
+    "AirportCode": "SAL"
+  }, {
+    "City": "Santa Barbara, CA, US (SBA)",
+    "AirportCode": "SBA"
+  }, {
+    "City": "Santa Cruz, BO (VVI)",
+    "AirportCode": "VVI"
+  }, {
+    "City": "Santa Rosa, CA, US (STS)",
+    "AirportCode": "STS"
+  }, {
+    "City": "Santiago, CL (SCL)",
+    "AirportCode": "SCL"
+  }, {
+    "City": "Santiago, DO (STI)",
+    "AirportCode": "STI"
+  }, {
+    "City": "Santo Domingo, DO (SDQ)",
+    "AirportCode": "SDQ"
+  }, {
+    "City": "Sanya (SYX)",
+    "AirportCode": "SYX"
+  }, {
+    "City": "São Paulo, SP, BR (GRU - Guarulhos)",
+    "AirportCode": "GRU"
+  }, {
+    "City": "São Paulo, SP, BR (VCP - Viracopos)",
+    "AirportCode": "VCP"
+  }, {
+    "City": "Sapporo, JP (CTS)",
+    "AirportCode": "CTS"
+  }, {
+    "City": "Sarajevo, BA (SJJ)",
+    "AirportCode": "SJJ"
+  }, {
+    "City": "Sarasota, FL, US (SRQ)",
+    "AirportCode": "SRQ"
+  }, {
+    "City": "Saskatoon, SK, CA (YXE)",
+    "AirportCode": "YXE"
+  }, {
+    "City": "Savannah, GA, US (SAV)",
+    "AirportCode": "SAV"
+  }, {
+    "City": "Scottsbluff, NE, US (BFF)",
+    "AirportCode": "BFF"
+  }, {
+    "City": "Seattle, WA, US (BFI)",
+    "AirportCode": "BFI"
+  }, {
+    "City": "Seattle, WA, US (SEA)",
+    "AirportCode": "SEA"
+  }, {
+    "City": "Sendai, JP (SDJ)",
+    "AirportCode": "SDJ"
+  }, {
+    "City": "Seoul, KR (ICN - Incheon)",
+    "AirportCode": "ICN"
+  }, {
+    "City": "Shanghai (PVG - Pu Dong)",
+    "AirportCode": "PVG"
+  }, {
+    "City": "Shanghai (SHA - Hongqiao)",
+    "AirportCode": "SHA"
+  }, {
+    "City": "Shannon, IE (SNN)",
+    "AirportCode": "SNN"
+  }, {
+    "City": "Shenandoah Valley, VA, US (SHD)",
+    "AirportCode": "SHD"
+  }, {
+    "City": "Shenyang (SHE)",
+    "AirportCode": "SHE"
+  }, {
+    "City": "Shenzhen (SZX)",
+    "AirportCode": "SZX"
+  }, {
+    "City": "Shreveport, LA, US (SHV)",
+    "AirportCode": "SHV"
+  }, {
+    "City": "Sibiu, RO (SBZ)",
+    "AirportCode": "SBZ"
+  }, {
+    "City": "Singapore, SG (SIN)",
+    "AirportCode": "SIN"
+  }, {
+    "City": "Sioux Falls, SD, US (FSD)",
+    "AirportCode": "FSD"
+  }, {
+    "City": "Skopje, MK (SKP)",
+    "AirportCode": "SKP"
+  }, {
+    "City": "Sofia, BG (SOF)",
+    "AirportCode": "SOF"
+  }, {
+    "City": "South Bend, IN, US (SBN)",
+    "AirportCode": "SBN"
+  }, {
+    "City": "South Bimini, BS (BIM)",
+    "AirportCode": "BIM"
+  }, {
+    "City": "Split, HR (SPU)",
+    "AirportCode": "SPU"
+  }, {
+    "City": "Spokane, WA, US (GEG)",
+    "AirportCode": "GEG"
+  }, {
+    "City": "Springfield, IL, US (SPI)",
+    "AirportCode": "SPI"
+  }, {
+    "City": "Springfield, MO, US (SGF)",
+    "AirportCode": "SGF"
+  }, {
+    "City": "St. Croix, VI, US (STX)",
+    "AirportCode": "STX"
+  }, {
+    "City": "St. George, UT, US (SGU)",
+    "AirportCode": "SGU"
+  }, {
+    "City": "St. John, NB, CA (YSJ)",
+    "AirportCode": "YSJ"
+  }, {
+    "City": "St. John's, NF, CA (YYT)",
+    "AirportCode": "YYT"
+  }, {
+    "City": "St. Kitts, KN (SKB)",
+    "AirportCode": "SKB"
+  }, {
+    "City": "St. Louis, MO, US (STL)",
+    "AirportCode": "STL"
+  }, {
+    "City": "St. Lucia, LC (UVF - Hewanorra)",
+    "AirportCode": "UVF"
+  }, {
+    "City": "St. Maarten, SX, NL (SXM)",
+    "AirportCode": "SXM"
+  }, {
+    "City": "St. Petersburg, FL, US (PIE)",
+    "AirportCode": "PIE"
+  }, {
+    "City": "St. Petersburg, RU (LED)",
+    "AirportCode": "LED"
+  }, {
+    "City": "St. Thomas, VI, US (STT)",
+    "AirportCode": "STT"
+  }, {
+    "City": "Stamford, CT, US (ZTF - Rail Station)",
+    "AirportCode": "ZTF"
+  }, {
+    "City": "State College, PA, US (SCE)",
+    "AirportCode": "SCE"
+  }, {
+    "City": "Stavanger, NO (SVG)",
+    "AirportCode": "SVG"
+  }, {
+    "City": "Steamboat Springs, CO, US (HDN)",
+    "AirportCode": "HDN"
+  }, {
+    "City": "Stockholm, SE (ARN - Arlanda)",
+    "AirportCode": "ARN"
+  }, {
+    "City": "Strasbourg, FR (SXB)",
+    "AirportCode": "SXB"
+  }, {
+    "City": "Stuttgart, DE (STR)",
+    "AirportCode": "STR"
+  }, {
+    "City": "Sudbury, ON, CA (YSB)",
+    "AirportCode": "YSB"
+  }, {
+    "City": "Sun Valley, ID, US (SUN)",
+    "AirportCode": "SUN"
+  }, {
+    "City": "Sydney, NSW, AU (SYD)",
+    "AirportCode": "SYD"
+  }, {
+    "City": "Syracuse, NY, US (SYR)",
+    "AirportCode": "SYR"
+  }, {
+    "City": "Taipei (TPE - Taoyuan)",
+    "AirportCode": "TPE"
+  }, {
+    "City": "Taiyuan (TYN)",
+    "AirportCode": "TYN"
+  }, {
+    "City": "Tallahassee, FL, US (TLH)",
+    "AirportCode": "TLH"
+  }, {
+    "City": "Tallinn, EE (TLL)",
+    "AirportCode": "TLL"
+  }, {
+    "City": "Tampa, FL, US (TPA)",
+    "AirportCode": "TPA"
+  }, {
+    "City": "Tampico, MX (TAM)",
+    "AirportCode": "TAM"
+  }, {
+    "City": "Tbilisi, GE (TBS)",
+    "AirportCode": "TBS"
+  }, {
+    "City": "Tegucigalpa, HN (TGU)",
+    "AirportCode": "TGU"
+  }, {
+    "City": "Tel Aviv, IL (TLV - Ben Gurion)",
+    "AirportCode": "TLV"
+  }, {
+    "City": "Telluride, CO, US (TEX)",
+    "AirportCode": "TEX"
+  }, {
+    "City": "Tepic, MX (TPQ)",
+    "AirportCode": "TPQ"
+  }, {
+    "City": "Thunder Bay, ON, CA (YQT)",
+    "AirportCode": "YQT"
+  }, {
+    "City": "Timisoara, RO (TSR)",
+    "AirportCode": "TSR"
+  }, {
+    "City": "Tirana, AL (TIA)",
+    "AirportCode": "TIA"
+  }, {
+    "City": "Tokyo, JP (HND - Haneda)",
+    "AirportCode": "HND"
+  }, {
+    "City": "Tokyo, JP (NRT - Narita)",
+    "AirportCode": "NRT"
+  }, {
+    "City": "Toronto, ON, CA (YYZ - Pearson)",
+    "AirportCode": "YYZ"
+  }, {
+    "City": "Tortola, VG, GB (EIS)",
+    "AirportCode": "EIS"
+  }, {
+    "City": "Toulouse, FR (TLS)",
+    "AirportCode": "TLS"
+  }, {
+    "City": "Traverse City, MI, US (TVC)",
+    "AirportCode": "TVC"
+  }, {
+    "City": "Treasure Cay, BS (TCB)",
+    "AirportCode": "TCB"
+  }, {
+    "City": "Trieste, IT (TRS)",
+    "AirportCode": "TRS"
+  }, {
+    "City": "Tucson, AZ, US (TUS)",
+    "AirportCode": "TUS"
+  }, {
+    "City": "Tulsa, OK, US (TUL)",
+    "AirportCode": "TUL"
+  }, {
+    "City": "Turin, IT (TRN)",
+    "AirportCode": "TRN"
+  }, {
+    "City": "Umea, SE (UME)",
+    "AirportCode": "UME"
+  }, {
+    "City": "Urumqi (URC)",
+    "AirportCode": "URC"
+  }, {
+    "City": "Vail, CO, US (EGE)",
+    "AirportCode": "EGE"
+  }, {
+    "City": "Valencia, ES (VLC)",
+    "AirportCode": "VLC"
+  }, {
+    "City": "Valledupar, CO (VUP)",
+    "AirportCode": "VUP"
+  }, {
+    "City": "Vancouver, BC, CA (YVR)",
+    "AirportCode": "YVR"
+  }, {
+    "City": "Venice, IT (VCE - Marco Polo)",
+    "AirportCode": "VCE"
+  }, {
+    "City": "Veracruz, MX (VER)",
+    "AirportCode": "VER"
+  }, {
+    "City": "Vernal, UT, US (VEL)",
+    "AirportCode": "VEL"
+  }, {
+    "City": "Verona, IT (VRN)",
+    "AirportCode": "VRN"
+  }, {
+    "City": "Victoria, BC, CA (YYJ)",
+    "AirportCode": "YYJ"
+  }, {
+    "City": "Vienna, AT (VIE)",
+    "AirportCode": "VIE"
+  }, {
+    "City": "Vieques, PR, US (VQS)",
+    "AirportCode": "VQS"
+  }, {
+    "City": "Villahermosa, MX (VSA)",
+    "AirportCode": "VSA"
+  }, {
+    "City": "Vilnius, LT (VNO)",
+    "AirportCode": "VNO"
+  }, {
+    "City": "Vitória, ES, BR (VIX)",
+    "AirportCode": "VIX"
+  }, {
+    "City": "Warsaw, PL (WAW)",
+    "AirportCode": "WAW"
+  }, {
+    "City": "Washington, DC, US (DCA - National)",
+    "AirportCode": "DCA"
+  }, {
+    "City": "Washington, DC, US (IAD - Dulles)",
+    "AirportCode": "IAD"
+  }, {
+    "City": "Wausau, WI, US (CWA)",
+    "AirportCode": "CWA"
+  }, {
+    "City": "Wellington, NZ (WLG)",
+    "AirportCode": "WLG"
+  }, {
+    "City": "Wenzhou (WNZ)",
+    "AirportCode": "WNZ"
+  }, {
+    "City": "West Palm Beach, FL, US (PBI)",
+    "AirportCode": "PBI"
+  }, {
+    "City": "Westerland, DE (GWT)",
+    "AirportCode": "GWT"
+  }, {
+    "City": "White Plains, NY, US (HPN)",
+    "AirportCode": "HPN"
+  }, {
+    "City": "Wichita, KS, US (ICT)",
+    "AirportCode": "ICT"
+  }, {
+    "City": "Wilkes Barre/Scranton, PA, US (AVP)",
+    "AirportCode": "AVP"
+  }, {
+    "City": "Williston, ND, US (ISN)",
+    "AirportCode": "ISN"
+  }, {
+    "City": "Wilmington, DE, US (ZWI - Rail Station)",
+    "AirportCode": "ZWI"
+  }, {
+    "City": "Wilmington, NC, US (ILM)",
+    "AirportCode": "ILM"
+  }, {
+    "City": "Winnipeg, MB, CA (YWG)",
+    "AirportCode": "YWG"
+  }, {
+    "City": "Wroclaw, PL (WRO)",
+    "AirportCode": "WRO"
+  }, {
+    "City": "Xiamen (XMN)",
+    "AirportCode": "XMN"
+  }, {
+    "City": "Xian (XIY)",
+    "AirportCode": "XIY"
+  }, {
+    "City": "Xining (XNN)",
+    "AirportCode": "XNN"
+  }, {
+    "City": "Yantai (YNT)",
+    "AirportCode": "YNT"
+  }, {
+    "City": "Yaounde, CM (NSI)",
+    "AirportCode": "NSI"
+  }, {
+    "City": "Yap, FM (YAP)",
+    "AirportCode": "YAP"
+  }, {
+    "City": "Yerevan, AM (EVN)",
+    "AirportCode": "EVN"
+  }, {
+    "City": "Yinchuan (INC)",
+    "AirportCode": "INC"
+  }, {
+    "City": "Zagreb, HR (ZAG)",
+    "AirportCode": "ZAG"
+  }, {
+    "City": "Zanzibar, TZ (ZNZ)",
+    "AirportCode": "ZNZ"
+  }, {
+    "City": "Zhengzhou (CGO)",
+    "AirportCode": "CGO"
+  }, {
+    "City": "Zurich, CH (ZRH)",
+    "AirportCode": "ZRH"
+  }]
